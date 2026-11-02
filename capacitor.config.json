@@ -1,0 +1,6 @@
+{
+  "appId": "com.kiryana.smartledger",
+  "appName": "SmartLedger",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
